@@ -117,7 +117,7 @@ var Scene2 = {
     }
   },
   music: "",
-  line:"\"You can see them,\naren't you?\"",
+  line:"\"You can see them,\ncan't you?\"",
   showLine: function() {
     textFont("Arial");
     textStyle(ITALIC);
